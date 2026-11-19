@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "cpanel",
+  "binary": "cpanel-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via cPanel.",
+  "display_name_key": "plugin.cpanel-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "cpanel-dns",
+  "provider_aliases": [
+    "cpanel"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

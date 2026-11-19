@@ -1,0 +1,4 @@
+{
+  "plugin.cpanel-dns.name": "cPanel",
+  "plugin.cpanel-dns.description": "ACME DNS-01 via cPanel."
+}
